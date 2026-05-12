@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with Asana for macOS professional Workflow: note encryption & focus mode, the #1 workflow. Includes note encryption and focus mode for a smoother
 
 
 
